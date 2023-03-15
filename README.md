@@ -1,4 +1,4 @@
-# result_management
+# hmi-exam-result-data-analysis
 
 ## Project setup
 ```
