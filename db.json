@@ -1,0 +1,988 @@
+{
+  "data": [
+    {
+      "7": [
+        {
+          "question": "The project budget of a ten-months project is 1,000,000€ (BAC, budget at completion). It has been estimated that exactly 10 percent of work is going to be completed each month! After five months the work completed represents 40 percent of the whole work to be completed. What is the earned value at this time? ",
+          "enrollment_number": "7",
+          "question_numbers": "1",
+          "question_type": "SA",
+          "Correct_Answer": "400000€",
+          "Your_response": "400.000€",
+          "Evaluated_response": " 400 000€",
+          "totol_point": "1",
+          "archive_point": "1"
+        },
+        {
+          "question": "The project budget of a tweleve-months project is 1,200,000€ (BAC, budget at completion). Project costs equally distribute over the entire project duration. After six months the work completed represents 60 percent of the whole work to be completed. At this time 400,000€ have been spent on project. Calculate the cost performance index (CPI) ",
+          "enrollment_number": "7",
+          "question_numbers": "2",
+          "question_type": "SA",
+          "Correct_Answer": "1.5",
+          "Your_response": "",
+          "totol_point": "2",
+          "archive_point": "0"
+        },
+        {
+          "question": "The PMO database provides the following cost estimates for a particular activ",
+          "enrollment_number": "7",
+          "question_numbers": "3",
+          "question_type": "SA",
+          "Correct_Answer": "250€",
+          "Your_response": "250€",
+          "totol_point": "2",
+          "archive_point": "2"
+        },
+        {
+          "question": "Which statements are not correct about the Critical Path? ",
+          "enrollment_number": "7",
+          "question_numbers": "4",
+          "question_type": "PM",
+          "Correct_Answer": "The Critical Path indicates  the maximum project duration.;The free float of a single activity on the Critical Path may be greater than zero.",
+          "Your_response": "The Critical Path indicates  the maximum project duration.",
+          "totol_point": "2",
+          "archive_point": "1"
+        },
+        {
+          "question": "Between two project phases, the project team evaluates the progress and decides on continuing or terminating of the project. How is the point between two phases usually called? Max. two words! ",
+          "enrollment_number": "7",
+          "question_numbers": "5",
+          "question_type": "SA",
+          "Correct_Answer": "Phase gate/kill point/stage gate",
+          "Your_response": "control point",
+          "totol_point": "1",
+          "archive_point": "0"
+        },
+        {
+          "question": "How is a lifecycle called when during each cycle new funcionalities are added to the product? Max. two words! ",
+          "enrollment_number": "7",
+          "question_numbers": "6",
+          "question_type": "SA",
+          "Correct_Answer": "Incremental",
+          "Your_response": "rigid lifecycle",
+          "totol_point": "1",
+          "archive_point": "0"
+        },
+        {
+          "question": "How is an organizational context called in which the project manager has very high authority and manages the project budget? ",
+          "enrollment_number": "7",
+          "question_numbers": "7",
+          "question_type": "PO",
+          "Correct_Answer": "None of the qualities mentioned here",
+          "Your_response": "None of the qualities mentioned here",
+          "totol_point": "1",
+          "archive_point": "1"
+        },
+        {
+          "question": "Return on captial and market share are … ",
+          "enrollment_number": "7",
+          "question_numbers": "8",
+          "question_type": "PO",
+          "Correct_Answer": "Key result indicators",
+          "Your_response": "Key result indicators",
+          "totol_point": "1",
+          "archive_point": "1"
+        },
+        {
+          "question": "How is an information gathering method called that consolidates ideas created through individual brainstorming sessions into a single picture to reflect commonality and differences in understanding and to generate new ideas? Max. three words! ",
+          "enrollment_number": "7",
+          "question_numbers": "9",
+          "question_type": "SA",
+          "Correct_Answer": "mind mapping",
+          "Your_response": "",
+          "totol_point": "2",
+          "archive_point": "0"
+        },
+        {
+          "question": " What is a project (definition)? Max. one phrase! ",
+          "enrollment_number": "7",
+          "question_numbers": "10",
+          "question_type": "SA",
+          "Correct_Answer": "Temporary endeavor to create a unique product, service, or result.",
+          "Your_response": "project is a temporary endeavor undertaken to create a unique product,service or result",
+          "Evaluated_response": " project is a temporary endeavor undertaken to create a unique product service or result",
+          "totol_point": "4",
+          "archive_point": "4"
+        },
+        {
+          "question": " What is a risk (brief definition)? Max. one phrase! ",
+          "enrollment_number": "7",
+          "question_numbers": "11",
+          "question_type": "SA",
+          "Correct_Answer": "Uncertain event or condition with positive or negative impact on project objectives ",
+          "Your_response": "uncertain event or condition that if it occures has a negative or a positive effect in one or more project objectives",
+          "Evaluated_response": " uncertain event or condition that if it occurs has a negative or a positive effect in one or more project objectives",
+          "totol_point": "4",
+          "archive_point": "4"
+        },
+        {
+          "question": " How is the degree of uncertainty usually called a company is ready to take on in anticipation of a reward? ",
+          "enrollment_number": "7",
+          "question_numbers": "12",
+          "question_type": "PO",
+          "Correct_Answer": "Risk appetite",
+          "Your_response": "Risk readiness",
+          "totol_point": "1",
+          "archive_point": "0"
+        },
+        {
+          "question": " Which scope defines the features and functions of the end result of the project which can be a product or service? ",
+          "enrollment_number": "7",
+          "question_numbers": "13",
+          "question_type": "PO",
+          "Correct_Answer": "Product scope",
+          "Your_response": "Product scope",
+          "totol_point": "1",
+          "archive_point": "1"
+        },
+        {
+          "question": " What is a requirement? Give a brief definition. Max. one phrase! ",
+          "enrollment_number": "7",
+          "question_numbers": "14",
+          "question_type": "SA",
+          "Correct_Answer": "Condition or capability that is required to be present in a product, service, or result to satisfy a particular need. ",
+          "Your_response": "condition or capability that is necessery to be present in a product,service or result to satisfy a bussiness need",
+          "Evaluated_response": " condition or capability that is necessary to be present in a product service or result to satisfy a bossiness need",
+          "totol_point": "4",
+          "archive_point": "3.6"
+        },
+        {
+          "question": " What shows this table? ",
+          "enrollment_number": "7",
+          "question_numbers": "15",
+          "question_type": "PM",
+          "Correct_Answer": "Requirements linked to deliverables;Requirements linked to stakeholder needs",
+          "Your_response": "Requirements linked to deliverables; Requirements linked to work packages",
+          "totol_point": "2",
+          "archive_point": "0"
+        },
+        {
+          "question": " What kind of planning is described h",
+          "enrollment_number": "7",
+          "question_numbers": "16",
+          "question_type": "SA",
+          "Correct_Answer": "Rolling Wave",
+          "Your_response": "",
+          "totol_point": "2",
+          "archive_point": "0"
+        },
+        {
+          "question": " How is it called when developers add polish or features that weren’t asked for, with the intention of adding value and impressing the client? ",
+          "enrollment_number": "7",
+          "question_numbers": "17",
+          "question_type": "SA",
+          "Correct_Answer": "Gold plating",
+          "Your_response": "out of requirements",
+          "totol_point": "2",
+          "archive_point": "0"
+        },
+        {
+          "question": " What includes the project scope statement? ",
+          "enrollment_number": "7",
+          "question_numbers": "18",
+          "question_type": "PM",
+          "Correct_Answer": "Information on what is not included in the project.;Guidelines for making decisions about change requests",
+          "Your_response": "Information on how to manage stakeholder interests; Detailled presentation of all work packages",
+          "totol_point": "2",
+          "archive_point": "0"
+        },
+        {
+          "question": " What is a control account? ",
+          "enrollment_number": "7",
+          "question_numbers": "19",
+          "question_type": "PM",
+          "Correct_Answer": "Summary of planning packages;Management control point",
+          "Your_response": "Summary of work packages; Management control point",
+          "totol_point": "2",
+          "archive_point": "0"
+        },
+        {
+          "question": " What is correct about validation? ",
+          "enrollment_number": "7",
+          "question_numbers": "20",
+          "question_type": "PM",
+          "Correct_Answer": "Validated deliverables provide what has been expected by the customers or stakeholders.",
+          "Your_response": "Validation asks",
+          "totol_point": "2",
+          "archive_point": "0"
+        },
+        {
+          "question": " How is a technique called that is used for constructing a schedule model in which tasks are represented by nodes and are graphically linked by one or more logical relationships to show the sequence in which the tasks are performed? Max. three words! ",
+          "enrollment_number": "7",
+          "question_numbers": "21",
+          "question_type": "SA",
+          "Correct_Answer": "precedence diagramming method/PDM",
+          "Your_response": "",
+          "totol_point": "3",
+          "archive_point": "0"
+        },
+        {
+          "question": " There is always an underlying reason for a dependency between two activities in a schedule model. Which dependencies are also called soft logic? ",
+          "enrollment_number": "7",
+          "question_numbers": "22",
+          "question_type": "PO",
+          "Correct_Answer": "Discretionary dependencies",
+          "Your_response": "Discretionary dependencies",
+          "totol_point": "1",
+          "archive_point": "1"
+        },
+        {
+          "question": " How is the total time called a single activity can be delayed without delaying the early start of any successor activities? ",
+          "enrollment_number": "7",
+          "question_numbers": "23",
+          "question_type": "SA",
+          "Correct_Answer": "Free float",
+          "Your_response": "",
+          "totol_point": "2",
+          "archive_point": "0"
+        },
+        {
+          "question": " What kind of schedule compression technique is shown in the picture? ",
+          "enrollment_number": "7",
+          "question_numbers": "24",
+          "question_type": "PO",
+          "Correct_Answer": "Fast tracking",
+          "Your_response": "Fast tracking",
+          "totol_point": "1",
+          "archive_point": "1"
+        },
+        {
+          "question": " What indicates an SPI value less than 1.0? ",
+          "enrollment_number": "7",
+          "question_numbers": "25",
+          "question_type": "PM",
+          "Correct_Answer": "Less work has been competed than indicated by the schedule baseline;The schedule variance is negative.",
+          "Your_response": "Less work has been competed than indicated by the schedule baseline; The schedule variance is negative.",
+          "totol_point": "2",
+          "archive_point": "2"
+        },
+        {
+          "question": " The TCPI value is greater than 1.0. What does this mean? ",
+          "enrollment_number": "7",
+          "question_numbers": "26",
+          "question_type": "PM",
+          "Correct_Answer": "The project will quite likely not stay within the authorized budget.;It's quite likely that the BAC is no longer viable.",
+          "Your_response": "The project needs to increase its performance in order to achieve the desired quality level.; It's quite likely that the BAC is no longer viable.",
+          "totol_point": "2",
+          "archive_point": "0"
+        },
+        {
+          "question": " In the context of risk analysis, the sensitivity analysis helps to determine what? Max. one phrase! ",
+          "enrollment_number": "7",
+          "question_numbers": "27",
+          "question_type": "SA",
+          "Correct_Answer": "Which project risks have the most potential impact on project outcomes.",
+          "Your_response": "a range of possible outcoms given possible range for each variable",
+          "Evaluated_response": " a range of possible outcome given possible range for each variable",
+          "totol_point": "4",
+          "archive_point": "1.333"
+        },
+        {
+          "question": " For dealing with threats, there are commonly several strategies that can be considered. Which of the following are not suitable strategies? ",
+          "enrollment_number": "7",
+          "question_numbers": "28",
+          "question_type": "PM",
+          "Correct_Answer": "Smoothing;Delegate",
+          "Your_response": "Smoothing; Delegate",
+          "totol_point": "2",
+          "archive_point": "2"
+        },
+        {
+          "question": " What means WBS? Max. three words! ",
+          "enrollment_number": "7",
+          "question_numbers": "29",
+          "question_type": "SA",
+          "Correct_Answer": "Work breakdown structure",
+          "Your_response": "work breakdown structure",
+          "totol_point": "3",
+          "archive_point": "3"
+        },
+        {
+          "question": " How is numbering system called for the unique identification of each component of the work breakdown structure (WBS) ",
+          "enrollment_number": "7",
+          "question_numbers": "30",
+          "question_type": "PO",
+          "Correct_Answer": "Code of account",
+          "Your_response": "Code of account",
+          "totol_point": "1",
+          "archive_point": "1"
+        },
+        {
+          "question": " What is a change request? Explain it in a couple of words! Max. ten words! ",
+          "enrollment_number": "7",
+          "question_numbers": "31",
+          "question_type": "SA",
+          "Correct_Answer": "Formal proposal to modify a document, deliverable, or baseline. ",
+          "Your_response": "change request is a formal proposal to modify document,deliverable or baseline",
+          "Evaluated_response": " change request is a formal proposal to modify document deliverable or baseline",
+          "totol_point": "5",
+          "archive_point": "5"
+        },
+        {
+          "question": " Which planning and modeling technique is used to yield various projections for some outcome based on selectively changing inputs? Max. two words! ",
+          "enrollment_number": "7",
+          "question_numbers": "32",
+          "question_type": "SA",
+          "Correct_Answer": "Alternative analysis",
+          "Your_response": "",
+          "totol_point": "2",
+          "archive_point": "0"
+        },
+        {
+          "question": " Which planning and modeling technique is used to forecast future performance based on past results? Max. two words! ",
+          "enrollment_number": "7",
+          "question_numbers": "33",
+          "question_type": "SA",
+          "Correct_Answer": "Trend analysis",
+          "Your_response": "",
+          "totol_point": "2",
+          "archive_point": "0"
+        },
+        {
+          "question": " Design thinking is an iterative approach to come to a decision that intentionally seeks out people with different perspectives, knowledge, skills and experience and has them work together to create a practical solution for a real-world problem. Name the five iterative phases of design thinking in the right order. ",
+          "enrollment_number": "7",
+          "question_numbers": "34",
+          "question_type": "SA",
+          "Correct_Answer": "Empathize - Define - Ideate - Prototype - Test",
+          "Your_response": "empathize,define,ideate,prototype,test",
+          "Evaluated_response": " empathize define ideate prototype test",
+          "totol_point": "5",
+          "archive_point": "5"
+        },
+        {
+          "question": " The project manager is the person assigned by the performing organization to lead the team that is responsible for achieving the project objectives. Name the three main skill sets a project manager should cover. ",
+          "enrollment_number": "7",
+          "question_numbers": "35",
+          "question_type": "SA",
+          "Correct_Answer": "Technical management, Leadership, Strategic& business management",
+          "Your_response": "leadership,negosiation,risk management",
+          "Evaluated_response": " leadership negociation risk management",
+          "totol_point": "3",
+          "archive_point": "1"
+        },
+        {
+          "question": " Which leadership style is also known as managerial leadership and is a leadership style where the executive relies on rewards and punishments to achieve optimal job performance from his or her subordinates? Max. two words! ",
+          "enrollment_number": "7",
+          "question_numbers": "36",
+          "question_type": "SA",
+          "Correct_Answer": "Transactional leadership",
+          "Your_response": "",
+          "totol_point": "2",
+          "archive_point": "0"
+        },
+        {
+          "question": " The phases of a project constitute processes that can be grouped together into five logical groups. How is the last phase called? ",
+          "enrollment_number": "7",
+          "question_numbers": "37",
+          "question_type": "SA",
+          "Correct_Answer": "closing",
+          "Your_response": "closing phase",
+          "totol_point": "1",
+          "archive_point": "1"
+        },
+        {
+          "question": " The different processes of the project phases may require different knowledge depending on the things that need to be accomplished in these phases. In project management, this knowledge is separated along ten management knowledge areas. Which of the following are valid knowledge areas? ",
+          "enrollment_number": "7",
+          "question_numbers": "38",
+          "question_type": "PM",
+          "Correct_Answer": "Communication management;Procurement management",
+          "Your_response": "Communication management; Procurement management",
+          "totol_point": "2",
+          "archive_point": "2"
+        },
+        {
+          "question": " Emotional intelligence is the area of cognitive ability that facilitates interpersonal behavior. EI emerges from five key factors. Which of the following are not among these key factors? ",
+          "enrollment_number": "7",
+          "question_numbers": "39",
+          "question_type": "PM",
+          "Correct_Answer": "Persuasion;Foresight",
+          "Your_response": "Persuasion; Foresight",
+          "totol_point": "2",
+          "archive_point": "2"
+        },
+        {
+          "question": " Power is the ability to influence others. Power can be a positive manner or a negative one. Which of the following are instances of this concept of power? ",
+          "enrollment_number": "7",
+          "question_numbers": "40",
+          "question_type": "PM",
+          "Correct_Answer": "Referent power;Expert power",
+          "Your_response": "Stakeholder power; Expert power",
+          "totol_point": "2",
+          "archive_point": "0"
+        },
+        {
+          "question": " Data and information gathering. Which instrument is used to test the public response to a wide variety of subjects, including marketing, research, products, services, entertainment, propaganda and policies? ",
+          "enrollment_number": "7",
+          "question_numbers": "41",
+          "question_type": "PO",
+          "Correct_Answer": "Focus groups",
+          "Your_response": "Brainstorming",
+          "totol_point": "1",
+          "archive_point": "0"
+        },
+        {
+          "question": " What are the responsibilities of the PMO? ",
+          "enrollment_number": "7",
+          "question_numbers": "42",
+          "question_type": "PM",
+          "Correct_Answer": "In some cases, it may take control of projects and manage them directly.;It supports the sharing of resources, methodologies, tools, and techniques among projects.",
+          "Your_response": "In some cases, it may take control of projects and manage them directly.; It supports the sharing of resources, methodologies, tools, and techniques among projects.",
+          "totol_point": "2",
+          "archive_point": "2"
+        },
+        {
+          "question": " Which lifecycle defines the bulk of planning occurring upfront, then executing in sequential processes, where the sequence of all phases are well defined at the beginning of the project? ",
+          "enrollment_number": "7",
+          "question_numbers": "43",
+          "question_type": "PO",
+          "Correct_Answer": "Predictive lifecycle",
+          "Your_response": "Incremental lifecycle",
+          "totol_point": "1",
+          "archive_point": "0"
+        },
+        {
+          "question": " The Project Management Triangle (or Iron Triangle) is a graphic metaphor to show the forces of the major constraints in project management. Name the four elements of the Iron Triangle. Max. four words!  ",
+          "enrollment_number": "7",
+          "question_numbers": "44",
+          "question_type": "SA",
+          "Correct_Answer": "quality, scope, cost, schedule",
+          "Your_response": "cost,schedule,scope,quality",
+          "Evaluated_response": " cost schedule scope quality",
+          "totol_point": "4",
+          "archive_point": "4"
+        },
+        {
+          "question": " What is correct about the situation depicted in the picture? ",
+          "enrollment_number": "7",
+          "question_numbers": "45",
+          "question_type": "PM",
+          "Correct_Answer": "The project started later than originally planned.;Fast tracking has been applied in this schedule.",
+          "Your_response": "The project started earlier than originally planned.; Fast tracking has been applied in this schedule.",
+          "totol_point": "2",
+          "archive_point": "0"
+        },
+        {
+          "question": " What express the entries in the depicted table? ",
+          "enrollment_number": "7",
+          "question_numbers": "46",
+          "question_type": "PM",
+          "Correct_Answer": "Programmer 1 works half-day from Feb. 14 on;Programmer 1 works in a different project until Feb. 14.",
+          "Your_response": "Programmer 1 works in a different project until Feb. 14.; Programmer 1 is assigned to 50% of task 1 from Feb. 14 on.",
+          "totol_point": "2",
+          "archive_point": "0"
+        },
+        {
+          "question": " What is correct concerning the depicted situation? ",
+          "enrollment_number": "7",
+          "question_numbers": "47",
+          "question_type": "PM",
+          "Correct_Answer": "The blue task is not part of the Critical Path;All tasks except the blue one are part of the Critical Path",
+          "Your_response": "The blue task is not part of the Critical Path; All tasks except the blue one are part of the Critical Path",
+          "totol_point": "2",
+          "archive_point": "2"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "8": [
+        {
+          "question": "The project budget of a ten-months project is 1,000,000€ (BAC, budget at completion). It has been estimated that exactly 10 percent of work is going to be completed each month! After five months the work completed represents 40 percent of the whole work to be completed. What is the earned value at this time? ",
+          "enrollment_number": "8",
+          "question_numbers": "1",
+          "question_type": "SA",
+          "Correct_Answer": "400000€",
+          "Your_response": "",
+          "totol_point": "1",
+          "archive_point": "0"
+        },
+        {
+          "question": "The project budget of a tweleve-months project is 1,200,000€ (BAC, budget at completion). Project costs equally distribute over the entire project duration. After six months the work completed represents 60 percent of the whole work to be completed. At this time 400,000€ have been spent on project. Calculate the cost performance index (CPI) ",
+          "enrollment_number": "8",
+          "question_numbers": "2",
+          "question_type": "SA",
+          "Correct_Answer": "1.5",
+          "Your_response": "",
+          "totol_point": "2",
+          "archive_point": "0"
+        },
+        {
+          "question": "The PMO database provides the following cost estimates for a particular activ",
+          "enrollment_number": "8",
+          "question_numbers": "3",
+          "question_type": "SA",
+          "Correct_Answer": "250€",
+          "Your_response": "(100+4*250+400)",
+          "Evaluated_response": " (100+4*250+400) 6=1500 6= 250",
+          "totol_point": "2",
+          "archive_point": "2"
+        },
+        {
+          "question": "Which statements are not correct about the Critical Path? ",
+          "enrollment_number": "8",
+          "question_numbers": "4",
+          "question_type": "PM",
+          "Correct_Answer": "The Critical Path indicates  the maximum project duration.;The free float of a single activity on the Critical Path may be greater than zero.",
+          "Your_response": "The Critical Path is the longest of all paths through the project.",
+          "totol_point": "2",
+          "archive_point": "0"
+        },
+        {
+          "question": "Between two project phases, the project team evaluates the progress and decides on continuing or terminating of the project. How is the point between two phases usually called? Max. two words! ",
+          "enrollment_number": "8",
+          "question_numbers": "5",
+          "question_type": "SA",
+          "Correct_Answer": "Phase gate/kill point/stage gate",
+          "Your_response": "phases gate",
+          "totol_point": "1",
+          "archive_point": "0"
+        },
+        {
+          "question": "How is a lifecycle called when during each cycle new funcionalities are added to the product? Max. two words! ",
+          "enrollment_number": "8",
+          "question_numbers": "6",
+          "question_type": "SA",
+          "Correct_Answer": "Incremental",
+          "Your_response": "incremental lifecycle",
+          "totol_point": "1",
+          "archive_point": "1"
+        },
+        {
+          "question": "How is an organizational context called in which the project manager has very high authority and manages the project budget? ",
+          "enrollment_number": "8",
+          "question_numbers": "7",
+          "question_type": "PO",
+          "Correct_Answer": "None of the qualities mentioned here",
+          "Your_response": "Strong hierarchy",
+          "totol_point": "1",
+          "archive_point": "0"
+        },
+        {
+          "question": "Return on captial and market share are … ",
+          "enrollment_number": "8",
+          "question_numbers": "8",
+          "question_type": "PO",
+          "Correct_Answer": "Key result indicators",
+          "Your_response": "None of the indicators mentioned here",
+          "totol_point": "1",
+          "archive_point": "0"
+        },
+        {
+          "question": "How is an information gathering method called that consolidates ideas created through individual brainstorming sessions into a single picture to reflect commonality and differences in understanding and to generate new ideas? Max. three words! ",
+          "enrollment_number": "8",
+          "question_numbers": "9",
+          "question_type": "SA",
+          "Correct_Answer": "mind mapping",
+          "Your_response": "Meeting",
+          "totol_point": "2",
+          "archive_point": "0"
+        },
+        {
+          "question": " What is a project (definition)? Max. one phrase! ",
+          "enrollment_number": "8",
+          "question_numbers": "10",
+          "question_type": "SA",
+          "Correct_Answer": "Temporary endeavor to create a unique product, service, or result.",
+          "Your_response": "it is a interprenerual, which aim create unique products, service or so on",
+          "Evaluated_response": " it is a interprenerual  which aim create unique products  service or so on",
+          "totol_point": "4",
+          "archive_point": "2.286"
+        },
+        {
+          "question": " What is a risk (brief definition)? Max. one phrase! ",
+          "enrollment_number": "8",
+          "question_numbers": "11",
+          "question_type": "SA",
+          "Correct_Answer": "Uncertain event or condition with positive or negative impact on project objectives ",
+          "Your_response": "it is a result of project, that can be negative or positive",
+          "Evaluated_response": " it is a result of project  that can be negative or positive",
+          "totol_point": "4",
+          "archive_point": "2"
+        },
+        {
+          "question": " How is the degree of uncertainty usually called a company is ready to take on in anticipation of a reward? ",
+          "enrollment_number": "8",
+          "question_numbers": "12",
+          "question_type": "PO",
+          "Correct_Answer": "Risk appetite",
+          "Your_response": "Risk threshold",
+          "totol_point": "1",
+          "archive_point": "0"
+        },
+        {
+          "question": " Which scope defines the features and functions of the end result of the project which can be a product or service? ",
+          "enrollment_number": "8",
+          "question_numbers": "13",
+          "question_type": "PO",
+          "Correct_Answer": "Product scope",
+          "Your_response": "Workpackage scope",
+          "totol_point": "1",
+          "archive_point": "0"
+        },
+        {
+          "question": " What is a requirement? Give a brief definition. Max. one phrase! ",
+          "enrollment_number": "8",
+          "question_numbers": "14",
+          "question_type": "SA",
+          "Correct_Answer": "Condition or capability that is required to be present in a product, service, or result to satisfy a particular need. ",
+          "Your_response": "what resources are required for the project",
+          "totol_point": "4",
+          "archive_point": "0.4"
+        },
+        {
+          "question": " What shows this table? ",
+          "enrollment_number": "8",
+          "question_numbers": "15",
+          "question_type": "PM",
+          "Correct_Answer": "Requirements linked to deliverables;Requirements linked to stakeholder needs",
+          "Your_response": "Requiremens linked to risks; Requirements linked to stakeholder needs",
+          "totol_point": "2",
+          "archive_point": "0"
+        },
+        {
+          "question": " What kind of planning is described h",
+          "enrollment_number": "8",
+          "question_numbers": "16",
+          "question_type": "SA",
+          "Correct_Answer": "Rolling Wave",
+          "Your_response": "",
+          "totol_point": "2",
+          "archive_point": "0"
+        },
+        {
+          "question": " How is it called when developers add polish or features that weren’t asked for, with the intention of adding value and impressing the client? ",
+          "enrollment_number": "8",
+          "question_numbers": "17",
+          "question_type": "SA",
+          "Correct_Answer": "Gold plating",
+          "Your_response": "requirements",
+          "totol_point": "2",
+          "archive_point": "0"
+        },
+        {
+          "question": " What includes the project scope statement? ",
+          "enrollment_number": "8",
+          "question_numbers": "18",
+          "question_type": "PM",
+          "Correct_Answer": "Information on what is not included in the project.;Guidelines for making decisions about change requests",
+          "Your_response": "Information on what is not included in the project.",
+          "totol_point": "2",
+          "archive_point": "1"
+        },
+        {
+          "question": " What is a control account? ",
+          "enrollment_number": "8",
+          "question_numbers": "19",
+          "question_type": "PM",
+          "Correct_Answer": "Summary of planning packages;Management control point",
+          "Your_response": "Summary of work packages; Summary of planning packages",
+          "totol_point": "2",
+          "archive_point": "0"
+        },
+        {
+          "question": " What is correct about validation? ",
+          "enrollment_number": "8",
+          "question_numbers": "20",
+          "question_type": "PM",
+          "Correct_Answer": "Validated deliverables provide what has been expected by the customers or stakeholders.",
+          "Your_response": "Validation asks",
+          "totol_point": "2",
+          "archive_point": "0"
+        },
+        {
+          "question": " How is a technique called that is used for constructing a schedule model in which tasks are represented by nodes and are graphically linked by one or more logical relationships to show the sequence in which the tasks are performed? Max. three words! ",
+          "enrollment_number": "8",
+          "question_numbers": "21",
+          "question_type": "SA",
+          "Correct_Answer": "precedence diagramming method/PDM",
+          "Your_response": "",
+          "totol_point": "3",
+          "archive_point": "0"
+        },
+        {
+          "question": " There is always an underlying reason for a dependency between two activities in a schedule model. Which dependencies are also called soft logic? ",
+          "enrollment_number": "8",
+          "question_numbers": "22",
+          "question_type": "PO",
+          "Correct_Answer": "Discretionary dependencies",
+          "Your_response": "Logic dependencies",
+          "totol_point": "1",
+          "archive_point": "0"
+        },
+        {
+          "question": " How is the total time called a single activity can be delayed without delaying the early start of any successor activities? ",
+          "enrollment_number": "8",
+          "question_numbers": "23",
+          "question_type": "SA",
+          "Correct_Answer": "Free float",
+          "Your_response": "schedule",
+          "totol_point": "2",
+          "archive_point": "0"
+        },
+        {
+          "question": " What kind of schedule compression technique is shown in the picture? ",
+          "enrollment_number": "8",
+          "question_numbers": "24",
+          "question_type": "PO",
+          "Correct_Answer": "Fast tracking",
+          "Your_response": "Schedule compressing",
+          "totol_point": "1",
+          "archive_point": "0"
+        },
+        {
+          "question": " What indicates an SPI value less than 1.0? ",
+          "enrollment_number": "8",
+          "question_numbers": "25",
+          "question_type": "PM",
+          "Correct_Answer": "Less work has been competed than indicated by the schedule baseline;The schedule variance is negative.",
+          "Your_response": "",
+          "totol_point": "2",
+          "archive_point": "0"
+        },
+        {
+          "question": " The TCPI value is greater than 1.0. What does this mean? ",
+          "enrollment_number": "8",
+          "question_numbers": "26",
+          "question_type": "PM",
+          "Correct_Answer": "The project will quite likely not stay within the authorized budget.;It's quite likely that the BAC is no longer viable.",
+          "Your_response": "",
+          "totol_point": "2",
+          "archive_point": "0"
+        },
+        {
+          "question": " In the context of risk analysis, the sensitivity analysis helps to determine what? Max. one phrase! ",
+          "enrollment_number": "8",
+          "question_numbers": "27",
+          "question_type": "SA",
+          "Correct_Answer": "Which project risks have the most potential impact on project outcomes.",
+          "Your_response": "helps to determine risks of project",
+          "totol_point": "4",
+          "archive_point": "0.889"
+        },
+        {
+          "question": " For dealing with threats, there are commonly several strategies that can be considered. Which of the following are not suitable strategies? ",
+          "enrollment_number": "8",
+          "question_numbers": "28",
+          "question_type": "PM",
+          "Correct_Answer": "Smoothing;Delegate",
+          "Your_response": "Smoothing",
+          "totol_point": "2",
+          "archive_point": "1"
+        },
+        {
+          "question": " What means WBS? Max. three words! ",
+          "enrollment_number": "8",
+          "question_numbers": "29",
+          "question_type": "SA",
+          "Correct_Answer": "Work breakdown structure",
+          "Your_response": "work breakdown srtucture",
+          "Evaluated_response": " work breakdown fructure",
+          "totol_point": "3",
+          "archive_point": "3"
+        },
+        {
+          "question": " How is numbering system called for the unique identification of each component of the work breakdown structure (WBS) ",
+          "enrollment_number": "8",
+          "question_numbers": "30",
+          "question_type": "PO",
+          "Correct_Answer": "Code of account",
+          "Your_response": "Code of work plan",
+          "totol_point": "1",
+          "archive_point": "0"
+        },
+        {
+          "question": " What is a change request? Explain it in a couple of words! Max. ten words! ",
+          "enrollment_number": "8",
+          "question_numbers": "31",
+          "question_type": "SA",
+          "Correct_Answer": "Formal proposal to modify a document, deliverable, or baseline. ",
+          "Your_response": "it is may require diffirent things that need to be accomplished in the phase",
+          "Evaluated_response": " it is may require different things that need to be accomplished in the phase",
+          "totol_point": "5",
+          "archive_point": "0"
+        },
+        {
+          "question": " Which planning and modeling technique is used to yield various projections for some outcome based on selectively changing inputs? Max. two words! ",
+          "enrollment_number": "8",
+          "question_numbers": "32",
+          "question_type": "SA",
+          "Correct_Answer": "Alternative analysis",
+          "Your_response": "",
+          "totol_point": "2",
+          "archive_point": "0"
+        },
+        {
+          "question": " Which planning and modeling technique is used to forecast future performance based on past results? Max. two words! ",
+          "enrollment_number": "8",
+          "question_numbers": "33",
+          "question_type": "SA",
+          "Correct_Answer": "Trend analysis",
+          "Your_response": "KPI",
+          "totol_point": "2",
+          "archive_point": "0"
+        },
+        {
+          "question": " Design thinking is an iterative approach to come to a decision that intentionally seeks out people with different perspectives, knowledge, skills and experience and has them work together to create a practical solution for a real-world problem. Name the five iterative phases of design thinking in the right order. ",
+          "enrollment_number": "8",
+          "question_numbers": "34",
+          "question_type": "SA",
+          "Correct_Answer": "Empathize - Define - Ideate - Prototype - Test",
+          "Your_response": "empathise, define ,ideate, prototype, testing",
+          "Evaluated_response": " empathise  define  ideate  prototype  testing",
+          "totol_point": "5",
+          "archive_point": "4"
+        },
+        {
+          "question": " The project manager is the person assigned by the performing organization to lead the team that is responsible for achieving the project objectives. Name the three main skill sets a project manager should cover. ",
+          "enrollment_number": "8",
+          "question_numbers": "35",
+          "question_type": "SA",
+          "Correct_Answer": "Technical management, Leadership, Strategic& business management",
+          "Your_response": "leadership, business and strategic management, technical project management",
+          "Evaluated_response": " leadership  business and strategic management  technical project management",
+          "totol_point": "3",
+          "archive_point": "2"
+        },
+        {
+          "question": " Which leadership style is also known as managerial leadership and is a leadership style where the executive relies on rewards and punishments to achieve optimal job performance from his or her subordinates? Max. two words! ",
+          "enrollment_number": "8",
+          "question_numbers": "36",
+          "question_type": "SA",
+          "Correct_Answer": "Transactional leadership",
+          "Your_response": "transact. leadership",
+          "Evaluated_response": " transact  leadership",
+          "totol_point": "2",
+          "archive_point": "0"
+        },
+        {
+          "question": " The phases of a project constitute processes that can be grouped together into five logical groups. How is the last phase called? ",
+          "enrollment_number": "8",
+          "question_numbers": "37",
+          "question_type": "SA",
+          "Correct_Answer": "closing",
+          "Your_response": "",
+          "totol_point": "1",
+          "archive_point": "0"
+        },
+        {
+          "question": " The different processes of the project phases may require different knowledge depending on the things that need to be accomplished in these phases. In project management, this knowledge is separated along ten management knowledge areas. Which of the following are valid knowledge areas? ",
+          "enrollment_number": "8",
+          "question_numbers": "38",
+          "question_type": "PM",
+          "Correct_Answer": "Communication management;Procurement management",
+          "Your_response": "Change management",
+          "totol_point": "2",
+          "archive_point": "0"
+        },
+        {
+          "question": " Emotional intelligence is the area of cognitive ability that facilitates interpersonal behavior. EI emerges from five key factors. Which of the following are not among these key factors? ",
+          "enrollment_number": "8",
+          "question_numbers": "39",
+          "question_type": "PM",
+          "Correct_Answer": "Persuasion;Foresight",
+          "Your_response": "Empathy; Foresight",
+          "totol_point": "2",
+          "archive_point": "0"
+        },
+        {
+          "question": " Power is the ability to influence others. Power can be a positive manner or a negative one. Which of the following are instances of this concept of power? ",
+          "enrollment_number": "8",
+          "question_numbers": "40",
+          "question_type": "PM",
+          "Correct_Answer": "Referent power;Expert power",
+          "Your_response": "Reward power",
+          "totol_point": "2",
+          "archive_point": "0"
+        },
+        {
+          "question": " Data and information gathering. Which instrument is used to test the public response to a wide variety of subjects, including marketing, research, products, services, entertainment, propaganda and policies? ",
+          "enrollment_number": "8",
+          "question_numbers": "41",
+          "question_type": "PO",
+          "Correct_Answer": "Focus groups",
+          "Your_response": "Expert groups",
+          "totol_point": "1",
+          "archive_point": "0"
+        },
+        {
+          "question": " What are the responsibilities of the PMO? ",
+          "enrollment_number": "8",
+          "question_numbers": "42",
+          "question_type": "PM",
+          "Correct_Answer": "In some cases, it may take control of projects and manage them directly.;It supports the sharing of resources, methodologies, tools, and techniques among projects.",
+          "Your_response": "It supports the sharing of resources, methodologies, tools, and techniques among projects.; It organizes human resources across projects.",
+          "totol_point": "2",
+          "archive_point": "0"
+        },
+        {
+          "question": " Which lifecycle defines the bulk of planning occurring upfront, then executing in sequential processes, where the sequence of all phases are well defined at the beginning of the project? ",
+          "enrollment_number": "8",
+          "question_numbers": "43",
+          "question_type": "PO",
+          "Correct_Answer": "Predictive lifecycle",
+          "Your_response": "Predictive lifecycle",
+          "totol_point": "1",
+          "archive_point": "1"
+        },
+        {
+          "question": " The Project Management Triangle (or Iron Triangle) is a graphic metaphor to show the forces of the major constraints in project management. Name the four elements of the Iron Triangle. Max. four words!  ",
+          "enrollment_number": "8",
+          "question_numbers": "44",
+          "question_type": "SA",
+          "Correct_Answer": "quality, scope, cost, schedule",
+          "Your_response": "quality, cost, scope, schedule",
+          "Evaluated_response": " quality  cost  scope  schedule",
+          "totol_point": "4",
+          "archive_point": "4"
+        },
+        {
+          "question": " What is correct about the situation depicted in the picture? ",
+          "enrollment_number": "8",
+          "question_numbers": "45",
+          "question_type": "PM",
+          "Correct_Answer": "The project started later than originally planned.;Fast tracking has been applied in this schedule.",
+          "Your_response": "Crashing has been applied in this schedule.",
+          "totol_point": "2",
+          "archive_point": "0"
+        },
+        {
+          "question": " What express the entries in the depicted table? ",
+          "enrollment_number": "8",
+          "question_numbers": "46",
+          "question_type": "PM",
+          "Correct_Answer": "Programmer 1 works half-day from Feb. 14 on;Programmer 1 works in a different project until Feb. 14.",
+          "Your_response": "Programmer 1 is assigned to 50% of task 1 from Feb. 14 on.",
+          "totol_point": "2",
+          "archive_point": "0"
+        },
+        {
+          "question": " What is correct concerning the depicted situation? ",
+          "enrollment_number": "8",
+          "question_numbers": "47",
+          "question_type": "PM",
+          "Correct_Answer": "The blue task is not part of the Critical Path;All tasks except the blue one are part of the Critical Path",
+          "Your_response": "The blue task is not part of the Critical Path; All tasks except the blue one are part of the Critical Path",
+          "totol_point": "2",
+          "archive_point": "2"
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "numbers": [
+    {
+      "Enrollment": [
+        "7"
+      ],
+      "total_score": 53,
+      "id": 1
+    },
+    {
+      "Enrollment": [
+        "8"
+      ],
+      "total_score": 25,
+      "id": 2
+    }
+  ]
+}
